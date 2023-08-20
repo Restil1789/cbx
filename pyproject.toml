@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cbx"
+version = "0.0.1"
+authors = [
+    {name="Restil1789", email="france10004@gmail.com"},
+]
+description = "Create and maintains cbx."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Restil1789/cbx"
+"Bug Tracker" = "https://github.com/Restil1789/cbx/issues"
