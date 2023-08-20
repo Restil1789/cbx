@@ -11,7 +11,7 @@ requirements = [
 
 setup(
     name="cbx",
-    version="0.0.1",
+    version="0.0.2",
     author="Restil1789",
     author_email="france10004@gmail.com",
     description="Create and maintains cbx.",
